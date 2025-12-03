@@ -12,5 +12,5 @@ spec:
   template:
     spec:
       containers:
-        - image: quay.io/rhtap_qe/github-tests-go-gamwdpxz:21d286ba4bb6b59024962893cd63f061145c9112@sha256:5926f11529ae785a1d56216ccf5df62b4524768c4c853655c4c4b2f76d946f6f
+        - image: quay.io/rhtap_qe/github-tests-go-gamwdpxz:77359d77a75b10e7c13c0074c920fc0cc5c5e798@sha256:518c494868f64b1fc91324491eacad8b8ae3fc2e86eed0e6823a27cf7abfe1c5
           name: container-image
